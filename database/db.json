@@ -1,0 +1,69 @@
+{
+  "user":[
+    {
+    "id":1,
+    "name": "Micky Mouse",
+    "email":"michaelj@gmail.com",
+    "profile":"images/user7.png",
+    "status":"Active",
+    "role":"Admin"
+
+  },
+  {
+  "id":2,
+  "name":" Michael Jordan",
+  "email":"michaelj@gmail.com",
+  "profile":"images/user6.png",
+  "status":"Active",
+  "role":"User"
+},
+{
+  "id":3,
+  "name":" Miguel Gonzalez",
+  "email":"Gonzalezmj@gmail.com",
+  "profile":"images/user5.png",
+  "status":"Active",
+  "role":"Manager"
+},
+{
+  "id":4,
+  "name":"Jane Doe",
+  "email":"janedoey@gmail.com",
+  "profile":"images/user8.png",
+  "status":"Active",
+  "role":"Agent"
+},
+{
+  "id":5,
+  "name":"Minnie Mouse",
+  "email":"minniem@hotmail.com",
+  "profile":"images/user3.png",
+  "status":"Active",
+  "role":"Agent"
+},
+{
+  "id":6,
+  "name":"Pedro Paco ",
+  "email":"pedropaxo@mail.com",
+  "profile":"images/user1.png",
+  "status":"Active",
+  "role":"Agent"
+},
+{
+  "id":7,
+  "name":"Javier Honduras",
+  "email":"javierh@ymail.com",
+  "profile":"images/user2.png",
+  "status":"Active",
+  "role":"Agent"
+},
+{
+  "id":8,
+  "name":"Sophia Mexicali",
+  "email":"sophiamexiy@yahoo.com",
+  "profile":"images/user4.png",
+  "status":"Active",
+  "role":"Agent"
+}
+  ]
+}
